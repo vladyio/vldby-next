@@ -9,6 +9,18 @@
   padding-left: 10px;
 }
 
+.card {
+  padding: 10px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-radius: 5px;
+  display: block;
+  margin-bottom: 15px;
+
+  p {
+    float: right;
+  }
+}
+
 /* TABS */
 
 /* Style the tab */
