@@ -4,7 +4,7 @@ title: "Слайсы в Go: использование и особенности
 date: 2016-10-14 12:05:46 +0300
 year: 2016
 lang: ru
-permalink: "go-slices-usage-and-internals"
+permalink: "slices-in-go"
 ---
 _Это перевод статьи [Go Slices: usage and internals](https://blog.golang.org/go-slices-usage-and-internals) из официального блога [The Go Blog](https://blog.golang.org/)._
 
