@@ -5,9 +5,8 @@ date: 2019-10-27 13:05 +0300
 lang: en
 permalink: "creating-a-wizard-with-rails-6-and-wicked-gem-in-2019"
 ---
-1. Install wicked
-2. Set steps
-3. Create views
+
+This post is to be done, sorry.
 
 {% codetabs %}
 
