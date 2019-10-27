@@ -10,15 +10,22 @@
 }
 
 .card {
-  padding: 10px;
-  border: 1px solid rgba(0, 0, 0, 0.2);
+  padding: 15px;
+  border: 1px solid rgba(0,0,0,0.3);
   border-radius: 5px;
-  display: block;
+  display: flex;
   margin-bottom: 15px;
 
-  p {
-    float: right;
+  .intro {
+    width: 30%;
+    height: 100%;
+    margin-right: 5px;
   }
+
+  .details {
+    width: 60%;
+  }
+
 }
 
 /* TABS */
