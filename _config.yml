@@ -13,7 +13,7 @@ plugins:
   - jekyll-code-tabs
 
 sass:
-  style: compact
+  style: compressed
 
 languages:
   en: 🇬🇧
