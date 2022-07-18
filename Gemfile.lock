@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/vladyio/jekyll-code-tabs.git
+  remote: https://github.com/vladyio/jekyll-code-tabs.git
   revision: caca9006a83b30b2023e1efda911122f2aa52019
   specs:
     jekyll-code-tabs (1.1.0)
@@ -93,3 +93,6 @@ DEPENDENCIES
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
+
+BUNDLED WITH
+   2.3.18
